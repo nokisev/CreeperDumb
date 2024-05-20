@@ -1,0 +1,7 @@
+name: creepbruh
+version: '1.0'
+main: test.nokisev.creepbruh.Creepbruh
+api-version: '1.20'
+authors: [nokisev]
+website: https://github.com/nokisev
+description: Тестовое задание ;D
